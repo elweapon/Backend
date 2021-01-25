@@ -1,0 +1,19 @@
+img {
+    width: 50%;
+}
+
+#mainbody {
+    padding-top: 30px;
+}
+
+#outStock {
+    color: red;
+}
+
+#inStock {
+    color: green;
+}
+
+body {
+    background-color:#fff0f5;
+}
