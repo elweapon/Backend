@@ -28,7 +28,7 @@ include('app.php');
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
         <div class="container">
-            <a class="navbar-brand" href="#">Dice Store</a>
+            <a class="navbar-brand" href="#">D&amp;D Store</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -48,7 +48,7 @@ include('app.php');
                     <a href="?cat=book" class="list-group-item">Books</a>
                     <a href="?cat=other" class="list-group-item">Others</a>
 
-                    <!-- <a href="?cat=brokenLink" class="list-group-item">(For Test)</a> -->
+                    <a href="?cat=brokenLink" class="list-group-item">(For Test)</a>
                 </div>
 
             </div>
