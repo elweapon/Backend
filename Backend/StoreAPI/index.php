@@ -48,7 +48,9 @@ include('app.php');
                     <a href="?cat=book" class="list-group-item">Books</a>
                     <a href="?cat=other" class="list-group-item">Others</a>
 
+                    <!-- For Testing Purpose -->
                     <a href="?cat=brokenLink" class="list-group-item">(For Test)</a>
+                    <!-- For Testing Purpose -->
                 </div>
 
             </div>
