@@ -1,0 +1,1 @@
+Uppgiften var riktigt kul, har själv inte jobbat eller använt databaser tidigare eller SQL kod, så detta var kul med nya saker att lära sig och det känns mer givande att kunna jobba med en databas genom att lägga till, hämta samt radera inlägg. Det var lagom svår uppgift samt att vi fått mycket tid att sitta själva med uppgiften och fundera på hur man ska lösa saker.
